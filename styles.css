@@ -11,20 +11,20 @@ div.buttons-container{
     align-items: center;
     gap: 30px;
     align-content: center;
-    flex-wrap: wrap;
     background-color: rgb(222, 192, 156);
 }
 div#output {
+    font-size: 3rem;
     border: solid black;
     height: 65px;
     margin: 30px;
     color:black;
-    background-color: rgb(211, 204, 204);
+    background-color: white;
 }
 div.calculator{
     display: block;
     border: solid black;
-    height: 700px;
+    height: 100vh;
     width: 500px;
     padding: 20px;
     background-color: rgb(222, 192, 156);
